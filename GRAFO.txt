@@ -1,0 +1,23 @@
+char
+9
+A B C D E F G H I
+
+A B 22
+B C 35
+C D 4
+D E 33
+E G 23
+F G 39
+G H 25
+H I 19
+A C 9
+B F 36
+C F 42
+D I 30
+E F 18
+F H 24
+G I 21
+A D 12
+B H 34
+C E 65
+
